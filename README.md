@@ -1,11 +1,11 @@
 # Heart_Health_Analysis_and_Disease_Prediction
 Project-  Machine Learning Classification with Visualization
 
-📌 Overview
+## 📌 Overview
 
 This project focuses on building machine learning models to perform classification tasks on a dataset, enhanced with data visualization using tools like Plotly, Seaborn, and Dash. The notebook also leverages PySpark and advanced libraries for EDA and model building.
 
-🧠 Objectives
+## 🧠 Objectives
 
 Perform data preprocessing and exploratory data analysis (EDA)
 
@@ -27,7 +27,7 @@ Integrate PySpark for large-scale data processing
 
 Create visual dashboards using Dash and Plotly
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -48,12 +48,12 @@ Folium, Waffle Charts
 SQLite3 (for data storage)
 
 
-📂 Files
+## 📂 Files
 
 Project_4_swayan.ipynb – Jupyter Notebook with all code and outputs
 
 
-📈 Results
+## 📈 Results
 
 Model performance is evaluated using metrics such as:
 
@@ -65,7 +65,7 @@ Confusion Matrix
 
 Visuals are used throughout to improve interpretability of the results.
 
-💡 Key Highlights
+## 💡 Key Highlights
 
 Combines traditional scikit-learn models with PySpark MLlib for scalability
 
@@ -75,9 +75,9 @@ Dash integration for interactive visualization
 
 Rich visuals including waffle charts and geographic maps
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Swayansiddha Sahoo and co_authors.
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
