@@ -42,3 +42,34 @@ Dash & Dash Bootstrap Components
 Folium, Waffle Charts
 
 SQLite3 (for data storage)
+
+
+📂 Files
+Project_4_swayan.ipynb – Jupyter Notebook with all code and outputs
+
+
+📈 Results
+Model performance is evaluated using metrics such as:
+
+Accuracy Score
+
+Classification Report
+
+Confusion Matrix
+
+Visuals are used throughout to improve interpretability of the results.
+
+💡 Key Highlights
+Combines traditional scikit-learn models with PySpark MLlib for scalability
+
+Uses Sweetviz for automatic EDA reporting
+
+Dash integration for interactive visualization
+
+Rich visuals including waffle charts and geographic maps
+
+👨‍💻 Author
+Swayansiddha Sahoo and co_authors.
+
+📄 License
+This project is open-source and available under the MIT License.
